@@ -9,7 +9,7 @@ This is a currency converter app built with Flutter. The app allows users to con
 
 2. cd currency_converter
 3. flutter pub get
-4.
+4. flutter pub run build_runner build --delete-conflicting-outputs
 5. flutter run
 
 ## Architecture
